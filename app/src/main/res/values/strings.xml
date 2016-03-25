@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DRecyclerView</string>
+
+    <item name="recyclerrview_random_view_tag" type="id"></item>
+    <item name="recyclerrview_view_cache_position" type="id"></item>
+
+</resources>
